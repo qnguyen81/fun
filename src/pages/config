@@ -36,3 +36,14 @@ function mkcd()
 	mkdir $1 && cd $1
 }
 
+
+// const config = {
+//   apiKey: 'AIzaSyDur55in20V--Y_IqKyJv4GzFlpUiDLb1Q',
+//   authDomain: 'my-pet-cafe-bf7e2.firebaseapp.com',
+//   databaseURL: 'https://my-pet-cafe-bf7e2.firebaseio.com',
+//   projectId: 'my-pet-cafe-bf7e2',
+//   storageBucket: 'my-pet-cafe-bf7e2.appspot.com',
+//   messagingSenderId: '572754491040',
+//   appId: '1:572754491040:web:c72e2f19cc3ea0dee0bbc5',
+//   measurementId: 'G-P2LZF4G529',
+// };
